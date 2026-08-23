@@ -23,10 +23,10 @@ I thrive at the intersection of design and engineering — turning complex probl
   },
 
   stats: [
-    { label: 'Projects Completed', value: 40, suffix: '+' },
+    { label: 'Projects Completed', value: 10, suffix: '+' },
     { label: 'Technologies',        value: 20, suffix: '+' },
-    { label: 'Certificates',        value: 12, suffix: '' },
-    { label: 'Years of Learning',   value: 4,  suffix: '+' },
+    { label: 'Certificates',        value: 3, suffix: '' },
+    { label: 'Years of Learning',   value: 3,  suffix: '+' },
   ],
 }
 
