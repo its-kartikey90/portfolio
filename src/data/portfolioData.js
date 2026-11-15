@@ -11,21 +11,20 @@ export const personal = {
 
 I thrive at the intersection of design and engineering — turning complex problems into elegant solutions that users love. Whether it's a lightning-fast landing page, a data-driven dashboard, or a full-stack SaaS product, I bring the same level of care and craft to every project.`,
   availability: 'Available for Freelance Projects',
-  location: 'Uttar Pradesh ,Lucknow , India',
-  email: 'dixitkartikey172@gmail.com',        // ← replace
-  phone: '+91 9235256629',              // ← replace
-  resumeUrl: 'https://www.canva.com/design/DAHS6G7bN_4/Hkps8-76lP7_YpnzkHt3gA/view',                          // ← replace with your resume PDF URL
+  location: 'Uttar Pradesh, Lucknow, India',
+  email: 'dixitkartikey172@gmail.com',
+  phone: '+91 9235256629',
+  resumeUrl: 'https://www.canva.com/design/DAHS6G7bN_4/Hkps8-76lP7_YpnzkHt3gA/view',
 
   social: {
-    github:    'https://github.com/its-kartikey90',     // ← replace
-    linkedin:  'https://www.linkedin.com/in/kartikey-dev/' // ← replace
-       // ← replace
+    github:   'https://github.com/its-kartikey90',
+    linkedin: 'https://www.linkedin.com/in/kartikey-dev/',
   },
 
   stats: [
     { label: 'Projects Completed', value: 10, suffix: '+' },
     { label: 'Technologies',        value: 20, suffix: '+' },
-    { label: 'Certificates',        value: 3, suffix: '' },
+    { label: 'Certificates',        value: 3,  suffix: '' },
     { label: 'Years of Learning',   value: 3,  suffix: '+' },
   ],
 }
@@ -72,7 +71,7 @@ export const skillCategories = [
     skills: [
       { name: 'Git',    icon: 'SiGit',    level: 'Advanced',     color: '#f05032' },
       { name: 'GitHub', icon: 'SiGithub', level: 'Advanced',     color: '#ffffff' },
-      { name: 'VS Code',icon: 'SiVSCode', level: 'Expert', color: '#007acc' },
+      { name: 'VS Code',icon: 'SiVSCode', level: 'Expert',       color: '#007acc' },
       { name: 'Figma',  icon: 'SiFigma',  level: 'Intermediate', color: '#f24e1e' },
     ],
   },
@@ -88,8 +87,8 @@ export const projects = [
     image: null,
     color: '#6366f1',
     tags: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Tailwind CSS'],
-    github: 'https://github.com/yourusername/devflow',   // ← replace
-    live: 'https://devflow.example.com',                  // ← replace
+    github: 'https://github.com/its-kartikey90/devflow',
+    live: 'https://github.com/its-kartikey90/devflow',
     featured: true,
     overview: 'DevFlow is a modern project management platform designed to help development teams collaborate in real time, track progress, and ship features faster.',
     problem: 'Existing tools are either too complex for small teams or too limited for growing startups.',
@@ -106,8 +105,8 @@ export const projects = [
     image: null,
     color: '#8b5cf6',
     tags: ['React', 'TypeScript', 'Storybook', 'Tailwind CSS', 'Radix UI'],
-    github: 'https://github.com/yourusername/luminary',
-    live: 'https://luminary.example.com',
+    github: 'https://github.com/its-kartikey90/luminary',
+    live: 'https://github.com/its-kartikey90/luminary',
     featured: true,
     overview: 'Luminary is a production-ready design system that helps teams build consistent, accessible UIs at speed.',
     problem: 'Rebuilding UI components from scratch for every project wastes weeks of engineering time.',
@@ -124,8 +123,8 @@ export const projects = [
     image: null,
     color: '#06b6d4',
     tags: ['React', 'Next.js', 'Stripe', 'Sanity CMS', 'Vercel'],
-    github: 'https://github.com/yourusername/shopwave',
-    live: 'https://shopwave.example.com',
+    github: 'https://github.com/its-kartikey90/shopwave',
+    live: 'https://github.com/its-kartikey90/shopwave',
     featured: false,
     overview: 'Shopwave is a headless commerce platform built for speed, scalability, and developer experience.',
     problem: 'Traditional e-commerce platforms are slow, inflexible, and hard to customise.',
@@ -142,8 +141,8 @@ export const projects = [
     image: null,
     color: '#ec4899',
     tags: ['JavaScript', 'OpenAI API', 'Chrome Extension', 'React', 'Express'],
-    github: 'https://github.com/yourusername/aura',
-    live: 'https://aura.example.com',
+    github: 'https://github.com/its-kartikey90/aura',
+    live: 'https://github.com/its-kartikey90/aura',
     featured: false,
     overview: 'Aura is an AI writing companion that gives context-aware suggestions as you type across any website.',
     problem: 'Writers waste time switching between writing tools and grammar checkers.',
@@ -160,8 +159,8 @@ export const projects = [
     image: null,
     color: '#10b981',
     tags: ['React', 'GitHub API', 'Tailwind CSS', 'PWA', 'Vite'],
-    github: 'https://github.com/yourusername/pulse',
-    live: 'https://pulse.example.com',
+    github: 'https://github.com/its-kartikey90/pulse',
+    live: 'https://github.com/its-kartikey90/pulse',
     featured: false,
     overview: 'Pulse is a developer-first new-tab dashboard with drag-and-drop widgets and deep GitHub integration.',
     problem: 'Developers juggle too many tabs and tools to stay in flow.',
@@ -178,8 +177,8 @@ export const projects = [
     image: null,
     color: '#f59e0b',
     tags: ['React', 'Framer Motion', 'Tailwind CSS', 'MDX', 'Netlify'],
-    github: 'https://github.com/yourusername/portfolio-v1',
-    live: 'https://alexmorgan.dev',
+    github: 'https://github.com/its-kartikey90/portfolio-v1',
+    live: 'https://github.com/its-kartikey90/portfolio-v1',
     featured: false,
     overview: 'The first public version of my personal brand site — a showcase of my skills, projects, and writing.',
     problem: 'A developer without a portfolio is like a chef without a menu.',
@@ -192,7 +191,6 @@ export const projects = [
 
 // ---- Experience --------------------------------------------
 export const experiences = [
- 
   {
     id: 2,
     type: 'work',
@@ -208,9 +206,9 @@ export const experiences = [
     id: 3,
     type: 'education',
     organisation: 'Maharishi University of Information and Technology',
-    role: 'Batchelor of computer application',
+    role: 'Bachelor of Computer Application',
     period: '2025 – 2028',
-    location: 'Uttar Pradesh,Lucknow,India',
+    location: 'Uttar Pradesh, Lucknow, India',
     description: 'Pursuing a degree in Computer Science with a focus on software engineering and human-computer interaction. CGPA 9.8 / 10.0. Active member of the ACM student chapter.',
     skills: ['Data Structures', 'Algorithms', 'OS', 'Databases', 'HCI'],
     color: '#06b6d4',
@@ -221,7 +219,7 @@ export const experiences = [
     organisation: 'IBM + freeCodeCamp',
     role: 'Self-Directed Web Development',
     period: '2025 – 2026',
-    location: 'offline + Online',
+    location: 'Offline + Online',
     description: 'Completed comprehensive full-stack curricula covering HTML, CSS, JavaScript, React, Node.js, and databases. Built 30+ projects from scratch with zero hand-holding.',
     skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js'],
     color: '#10b981',
@@ -285,33 +283,33 @@ export const achievements = [
   {
     id: 1,
     type: 'certificate',
-    title: ' Front-End Developer Certificate',
+    title: 'Front-End Developer Certificate',
     issuer: 'IBM',
-    date: 'MARCH 2026',
-    description: 'Completed the 9-course professional certificate covering  JavaScript, HTML/CSS, and UX design principles.',
+    date: 'March 2026',
+    description: 'Completed the 9-course professional certificate covering JavaScript, HTML/CSS, and UX design principles.',
     color: '#6366f1',
     badge: '🏅',
   },
   {
     id: 2,
     type: 'certificate',
-    title: 'Libre office ',
-    issuer: 'IIT BOMBAY',
+    title: 'LibreOffice',
+    issuer: 'IIT Bombay',
     date: 'May 2025',
-    description: 'Deep dive into office automation',
+    description: 'Deep dive into office automation.',
     color: '#8b5cf6',
     badge: '🎓',
-  }
+  },
 ]
 
 // ---- Testimonials ------------------------------------------
 export const testimonials = [
   {
     id: 1,
-    name: 'Devendra yadav',
+    name: 'Devendra Yadav',
     role: 'CTO, TechNova Labs',
     avatar: null,
-    initials: 'SC',
+    initials: 'DY',
     rating: 5,
     text: "Kartikey delivered a flawless React dashboard in record time. The code quality was exceptional — well-structured, fully tested, and easy to maintain. Exactly the kind of engineer you want on your team.",
     color: '#6366f1',
@@ -319,9 +317,9 @@ export const testimonials = [
   {
     id: 2,
     name: 'Avinash',
-    role: null,
+    role: 'Client',
     avatar: null,
-    initials: 'MR',
+    initials: 'AV',
     rating: 5,
     text: "Working with Kartikey was a pleasure from start to finish. He took our vague brief and turned it into a stunning e-commerce platform that converted 35% better than our old site. Highly recommend.",
     color: '#8b5cf6',
@@ -335,5 +333,5 @@ export const testimonials = [
     rating: 5,
     text: "Kartikey has a rare combination of strong technical skills and great design sensibility. He redesigned our company site and the feedback from stakeholders was overwhelmingly positive.",
     color: '#06b6d4',
-  }
+  },
 ]
