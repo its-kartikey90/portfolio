@@ -1,5 +1,5 @@
 // ============================================================
-//  PORTFOLIO DATA — update this file to personalise everything
+//  PORTFOLIO DATA
 // ============================================================
 
 export const personal = {
@@ -88,7 +88,7 @@ export const projects = [
     color: '#6366f1',
     tags: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Tailwind CSS'],
     github: 'https://github.com/its-kartikey90/devflow',
-    live: 'https://github.com/its-kartikey90/devflow',
+    live: 'https://its-kartikey90.github.io/devflow/',
     featured: true,
     overview: 'DevFlow is a modern project management platform designed to help development teams collaborate in real time, track progress, and ship features faster.',
     problem: 'Existing tools are either too complex for small teams or too limited for growing startups.',
@@ -106,7 +106,7 @@ export const projects = [
     color: '#8b5cf6',
     tags: ['React', 'TypeScript', 'Storybook', 'Tailwind CSS', 'Radix UI'],
     github: 'https://github.com/its-kartikey90/luminary',
-    live: 'https://github.com/its-kartikey90/luminary',
+    live: 'https://its-kartikey90.github.io/luminary/',
     featured: true,
     overview: 'Luminary is a production-ready design system that helps teams build consistent, accessible UIs at speed.',
     problem: 'Rebuilding UI components from scratch for every project wastes weeks of engineering time.',
@@ -124,7 +124,7 @@ export const projects = [
     color: '#06b6d4',
     tags: ['React', 'Next.js', 'Stripe', 'Sanity CMS', 'Vercel'],
     github: 'https://github.com/its-kartikey90/shopwave',
-    live: 'https://github.com/its-kartikey90/shopwave',
+    live: 'https://its-kartikey90.github.io/shopwave/',
     featured: false,
     overview: 'Shopwave is a headless commerce platform built for speed, scalability, and developer experience.',
     problem: 'Traditional e-commerce platforms are slow, inflexible, and hard to customise.',
@@ -142,7 +142,7 @@ export const projects = [
     color: '#ec4899',
     tags: ['JavaScript', 'OpenAI API', 'Chrome Extension', 'React', 'Express'],
     github: 'https://github.com/its-kartikey90/aura',
-    live: 'https://github.com/its-kartikey90/aura',
+    live: 'https://its-kartikey90.github.io/aura/',
     featured: false,
     overview: 'Aura is an AI writing companion that gives context-aware suggestions as you type across any website.',
     problem: 'Writers waste time switching between writing tools and grammar checkers.',
@@ -160,7 +160,7 @@ export const projects = [
     color: '#10b981',
     tags: ['React', 'GitHub API', 'Tailwind CSS', 'PWA', 'Vite'],
     github: 'https://github.com/its-kartikey90/pulse',
-    live: 'https://github.com/its-kartikey90/pulse',
+    live: 'https://its-kartikey90.github.io/pulse/',
     featured: false,
     overview: 'Pulse is a developer-first new-tab dashboard with drag-and-drop widgets and deep GitHub integration.',
     problem: 'Developers juggle too many tabs and tools to stay in flow.',
@@ -172,13 +172,13 @@ export const projects = [
   {
     id: 6,
     title: 'Portfolio v1 — Personal Brand Site',
-    shortDesc: 'My first-generation personal portfolio with smooth animations, dark mode, and a custom CMS for blog posts.',
+    shortDesc: 'My first-generation personal portfolio with smooth animations, dark mode, and a blog.',
     category: ['UI/UX', 'Web Development'],
     image: null,
     color: '#f59e0b',
     tags: ['React', 'Framer Motion', 'Tailwind CSS', 'MDX', 'Netlify'],
     github: 'https://github.com/its-kartikey90/portfolio-v1',
-    live: 'https://github.com/its-kartikey90/portfolio-v1',
+    live: 'https://its-kartikey90.github.io/portfolio-v1/',
     featured: false,
     overview: 'The first public version of my personal brand site — a showcase of my skills, projects, and writing.',
     problem: 'A developer without a portfolio is like a chef without a menu.',
